@@ -9,8 +9,22 @@ This website was developed use Flask at it's start, Django during implementation
 
 Main Resources:
 
-Tech with Time - YouTube
+Tech with Time - YouTube - https://www.youtube.com/c/TechWithTim
 
 FreeCodeCamp.org
 
-Bootstrap Templates
+Bootstrap Templates - https://getbootstrap.com
+
+W3Schools.com / Animations
+
+
+#------------------------------------------------------------------------------------------------------------------------------------------------------
+
+After Completion:
+
+As of right now, a user can; Create an Account, Like posts, Create Posts, Search for Musicians, Follow Musicians, and Edit their Profile.
+
+In the future I would like to add a Messenger-like app, Real time Commenting, Live-Streamed Concerts, Better UI, Bug Fixes, and a Hashtag System
+
+
+Hope you all enjoy MusiChat! I learned a lot during this process!

@@ -11,7 +11,7 @@ Main Resources:
 
 Tech with Time - YouTube - https://www.youtube.com/c/TechWithTim
 
-FreeCodeCamp.org
+FreeCodeCamp.org - Template, Course, and Stock Images
 
 Bootstrap Templates - https://getbootstrap.com
 

@@ -12,7 +12,7 @@ Main Resources:
 
 Tech with Tim - YouTube - https://www.youtube.com/c/TechWithTim
 
-FreeCodeCamp.org - Template, Course, and Stock Images
+FreeCodeCamp.org - Template, Course, and Stock Images - Courses Used - https://www.youtube.com/watch?v=xSUm6iMtREA&t=5405s - https://www.freecodecamp.org/news/learn-django-by-building-a-marketplace/
 
 Bootstrap Templates - https://getbootstrap.com
 
